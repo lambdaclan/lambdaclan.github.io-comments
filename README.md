@@ -1,2 +1,2 @@
-# website-comments
-Blog comments via utterances
+# Website comments
+Blog comments powered by utteranc.es
